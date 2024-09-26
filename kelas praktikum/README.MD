@@ -4,16 +4,12 @@
 Praktikum **Manajemen Basis Data** ini dirancang untuk membantu mahasiswa memahami konsep dasar hingga lanjutan mengenai pengelolaan basis data (database), dari perancangan, implementasi, hingga pemeliharaan. Peserta akan mempelajari SQL, normalisasi, desain ERD, serta teknik-teknik pengelolaan database menggunakan sistem manajemen basis data (DBMS) seperti MySQL, PostgreSQL, dan lain-lain.
 
 ## Daftar Isi
-- [Praktikum Manajemen Basis Data](#praktikum-manajemen-basis-data)
-  - [Deskripsi](#deskripsi)
-  - [Daftar Isi](#daftar-isi)
-  - [Tujuan](#tujuan)
-  - [Persyaratan](#persyaratan)
-    - [Software yang dibutuhkan:](#software-yang-dibutuhkan)
-  - [Struktur Direktori](#struktur-direktori)
-  - [Langkah Instalasi](#langkah-instalasi)
-  - [Materi Praktikum](#materi-praktikum)
-  - [Lisensi](#lisensi)
+- [Tujuan](#tujuan)
+- [Persyaratan](#persyaratan)
+- [Struktur Direktori](#struktur-direktori)
+- [Langkah Instalasi](#langkah-instalasi)
+- [Materi Praktikum](#materi-praktikum)
+- [Lisensi](#lisensi)
 
 ## Tujuan
 1. Memahami konsep dan terminologi dalam basis data.
